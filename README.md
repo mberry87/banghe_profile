@@ -1,32 +1,33 @@
-# Halo, Saya Mohamad Berry (Bang Bhe) 👋
+# Halo, saya Bang Bhe! 👋
 
-Selamat datang di ruang kerja saya! Saya seorang **Web Developer**, **IT Network Specialist**, dan juga aktif di bidang **Kehumasan (PR)**. 
-
-Buat saya, teknologi bukan cuma soal baris kode yang rumit atau server yang menyala, tapi bagaimana teknologi itu bisa memecahkan masalah nyata dan **berbicara dengan bahasa manusia** yang mudah dipahami semua orang.
+Selamat datang di catatan kecil perjalanan ngoding saya. Saat ini saya masih seorang **programmer pemula** yang sedang bersemangat belajar merangkai kode, membangun sistem web, dan menyelami dunia IT.
 
 ---
 
-### 🌐 Apa yang Biasa Saya Kerjakan?
+### 💻 Apa yang Sedang Saya Pelajari?
+Sebagai pembelajar, saya menikmati proses mencoba berbagai teknologi:
+* **Web Development:** Belajar bikin website dari dasar pakai **HTML, CSS, dan JavaScript**.
+* **Backend & Framework:** Mulai ngoprek **PHP Native** dan mengeksplorasi keseruan pakai **Laravel**.
+* **IT Networking & IoT:** Selain nulis kode, saya juga suka bereksperimen dengan jaringan komputer, server, dan perangkat Internet of Things (IoT).
 
-* **Web Development:** Suka meracik aplikasi web dari nol, baik pakai PHP Native maupun framework kesayangan kita semua, **Laravel**. Dari frontend yang bersih pakai HTML/CSS/JS sampai backend yang tangguh.
-* **IT Networking & IoT:** Ngoprek jaringan, server (seperti Proxmox), hingga menghubungkan perangkat IoT agar hidup kita jadi lebih praktis.
-* **Public Relations (Kehumasan):** Menjembatani dunia teknis yang kaku agar bisa tersampaikan dengan luwes dan komunikatif ke publik.
-
----
-
-### 🛠️ Senjata Tempur Sehari-hari
-
-* **Bahasa & Framework:** PHP, Laravel, Python, JavaScript, HTML5, CSS3
-* **Tools & Infrastruktur:** Git, Proxmox VE, Networking, IoT Devices
+### 📢 Sisi Lain Saya
+Di luar ngoding, saya juga aktif di bidang **Kehumasan (Public Relations)**. Jadi, saya terbiasa menjembatani hal-hal teknis yang rumit agar bisa dijelaskan dengan bahasa yang santai dan mudah dipahami oleh siapa saja.
 
 ---
 
-### 📫 Yuk, Ngobrol atau Kolaborasi!
+### 🛠️ Senjata Tempur Belajar Saya
+> *“Pelan-pelan yang penting jalan, salah itu wajar karena lagi belajar.”* ☕
 
-Punya proyek seru, butuh diskusi seputar web, jaringan, atau sekadar ngopi santai bahas teknologi? Sila hubungi saya:
+* **Bahasa:** PHP, Python, JavaScript, HTML, CSS
+* **Framework:** Laravel
+* **Tools:** Git, Proxmox VE, dan segelas kopi hangat 
 
-* **GitHub:** [@mberry87](https://github.com/mberry87)
-* **LinkedIn:** [Mohamad Berry](https://linkedin.com/in/yourprofile)
-* **Website:** [bangbhe.com](https://bangbhe.com)
+---
 
-*“Keep it simple, functional, and human.”* ☕
+### 🤝 Mari Berteman & Belajar Bareng!
+Kalau kamu punya kritik, saran, atau ingin sekadar diskusi seputar ngoding dan IT, yuk terhubung dengan saya:
+
+- **GitHub:** [@mberry87](https://github.com/mberry87)
+- **LinkedIn:** [Mohamad Berry](https://linkedin.com/in/yourprofile)
+
+*Terima kasih sudah mampir!* 🚀
