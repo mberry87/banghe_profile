@@ -1,89 +1,32 @@
----
-name: mberry87
-type: developer | contentcreator | pr_officer | network_specialist
----
+# Halo, Saya Mohamad Berry (Bang Bhe) 👋
 
-# Mohamad Berry (Bang Bhe)
+Selamat datang di ruang kerja saya! Saya seorang **Web Developer**, **IT Network Specialist**, dan juga aktif di bidang **Kehumasan (PR)**. 
 
-👋 Web Developer | Content Creator | PR Officer | IT Network Specialist
-
-> IT yang berbicara bahasa kemanusiaan. Seorang teknisi dan penulis yang menyampaikan kerumitan teknologi dengan bahasa yang bisa dipahami semuanya.
-
-## 🔗 Connect with me
-
-- 🌐 GitHub: [@mberry87 ↗](https://github.com/mberry87)
-- 🧑‍💻 LinkedIn: [Mohamad Berry (Bang Bhe)](https://linkedin.com/in/yourprofile)
-- 🌐 Personal Website: [bangbhe.com](https://bangbhe.com)
-- 🐦 X (Twitter): [follow](https://x.com/yourhandle)
-
-## 💼 Experience & Roles
-
-- **Web Developer & Content Creator**
-
-  Membangun website dan meracik konten digital yang menarik
-
-- **Public Relations (Kehumasan) Officer**
-
-  Membridging perusahaan ke publik melalui cerita yang nyata
-
-- **IT Network Specialist**
-
-  Mengatur infrastruktur IT dan IoT untuk lingkungan yang lebih cerdas
-
-- **Frontend Developer** (HTML/CSS/JS)
-
-- **Backend Developer** (PHP Native, Laravel)
-
-## 🛠 Tech Stack & Tools
-
-### Web Development
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23263478.svg?style=flat-square&logo=javascript&logoColor=white"></a>
-  <a href="https://laravel.com"><img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white"></a>
-  <a href="https://php.net"><img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"></a>
-  <a href="https://python.org"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white"></a>
-  <a href="https://git-scm.com"><img src="https://img.shields.io/badge/-Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white"></a>
-</p>
-
-### Networking & IoT
-<p>
-  <a href="https://networking.iot"><img src="https://img.shields.io/badge/-Networking%20%2B%20IoT-3584E4.svg?style=flat-square&logo=aws&logoColor=white"></a>
-  <a href="https://networking.iot"><img src="https://img.shields.io/badge/Proxmox-%23EA5509.svg?style=flat-square&logo=proxmox&logoColor=white"></a>
-  <a href="https://9router.ai"><img src="https://img.shields.io/badge/9Router-%235E659D.svg?style=flat-square&logo=router&logoColor=white"></a>
-</p>
+Buat saya, teknologi bukan cuma soal baris kode yang rumit atau server yang menyala, tapi bagaimana teknologi itu bisa memecahkan masalah nyata dan **berbicara dengan bahasa manusia** yang mudah dipahami semua orang.
 
 ---
 
-## 📈 GitHub Stats
+### 🌐 Apa yang Biasa Saya Kerjakan?
 
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mberry87)](https://github.com/mberry87/stats/) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mberry87)](https://github.com/mberry87/languages/) | [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mberry87)](https://github.com/mberry87/streak/) |
-|---|---|---|
-| [![Profile followers](https://img.shields.io/github/followers/mberry87)](https://github.com/mberry87/followers/) |
-
-## 📊 GitHub Activity
-
-![GitHub Commits](https://img.shields.io/badge/commits-1.2K%2B-blue) | ![GitHub Stars](https://img.shields.io/badge/stars-800%2B-red) | ![GitHub Issues](https://img.shields.io/badge/issues-150%2B-orange) | ![GitHub PRs](https://img.shields.io/badge/pullrequests-65%2B-green)
+* **Web Development:** Suka meracik aplikasi web dari nol, baik pakai PHP Native maupun framework kesayangan kita semua, **Laravel**. Dari frontend yang bersih pakai HTML/CSS/JS sampai backend yang tangguh.
+* **IT Networking & IoT:** Ngoprek jaringan, server (seperti Proxmox), hingga menghubungkan perangkat IoT agar hidup kita jadi lebih praktis.
+* **Public Relations (Kehumasan):** Menjembatani dunia teknis yang kaku agar bisa tersampaikan dengan luwes dan komunikatif ke publik.
 
 ---
 
-## 🌱 Extra
+### 🛠️ Senjata Tempur Sehari-hari
 
-| **Community** | **Code Style** |
-|---------------|----------------|
-| [![KUMU HUMAN DIGITAL TRAINING](https://img.shields.io/badge/KUMU_HUMAN_DIGITAL_TRAINING-500D24-orange.svg)](#) | ![PHP Linter](https://img.shields.io/badge/PHP-Linter-C9A800?style=flat-square) |
-
----
-
-## 📝 Contact
-
-[Website Form](https://docs.bangbhe.com/contact) for inquiries.
+* **Bahasa & Framework:** PHP, Laravel, Python, JavaScript, HTML5, CSS3
+* **Tools & Infrastruktur:** Git, Proxmox VE, Networking, IoT Devices
 
 ---
 
-<footer>
-  <p style="margin:0;font-size:0.9em;color:#666;">
-    Design with ❤️ by BangBhe
-  </p>
-</footer>
+### 📫 Yuk, Ngobrol atau Kolaborasi!
+
+Punya proyek seru, butuh diskusi seputar web, jaringan, atau sekadar ngopi santai bahas teknologi? Sila hubungi saya:
+
+* **GitHub:** [@mberry87](https://github.com/mberry87)
+* **LinkedIn:** [Mohamad Berry](https://linkedin.com/in/yourprofile)
+* **Website:** [bangbhe.com](https://bangbhe.com)
+
+*“Keep it simple, functional, and human.”* ☕
